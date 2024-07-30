@@ -2,12 +2,13 @@
 
 ## Overview
 
-This project is a Multi Query Retrieval-Augmented Generation (RAG) application built with Streamlit. It allows users to upload multiple PDFs, select from various embedding models, and interact with the uploaded PDFs through a chat interface. The application supports three embedding options:
-- BGE (BAAI)
-- OpenAI
-- Sentence Transformers
+This project is a Multi Query Retrieval-Augmented Generation (RAG) application built with Streamlit. It allows users to upload multiple PDFs, select from various embedding models, and interact with the uploaded PDFs through a chat interface. 
 
 The application utilizes a multi-query approach to enhance retrieval performance and provide more accurate responses based on the uploaded content.
+Check it out here - https://huggingface.co/spaces/Rgoomer/Multi_Query_RAG
+
+<img width="1335" alt="Screenshot 2024-07-30 at 5 11 28 PM" src="https://github.com/user-attachments/assets/691cab80-282c-4dca-8b0b-a873a1b36c3b">
+
 
 ## Features
 
